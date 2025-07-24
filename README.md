@@ -1,4 +1,4 @@
-# begibber-projects
+# beginner-projects
 
 This repository contains beginner-level Python and machine learning projects created during my early learning phase.
 
